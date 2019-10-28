@@ -7,7 +7,7 @@ h1{
 	font-family: 'Nunito', sans-serif;
 	font-weight: 300;
 	color: white;
-	left: 33%;
+	left: 30%;
 	top: 80%;
 	position: absolute;
 }
@@ -36,7 +36,7 @@ font-family: 'Nunito', sans-serif;
 
 .key {
   position: fixed;
-  top: 30%;
+  top: 20%;
   left: 50%;
   color: #DAF7A6;
   opacity: 0%;
