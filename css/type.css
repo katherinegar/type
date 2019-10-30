@@ -3,12 +3,13 @@ html {
 }
 
 h1{
-	font-size: 40px;
+	font-size: 22px;
 	font-family: 'Nunito', sans-serif;
 	font-weight: 300;
 	color: white;
-	left: 28%;
-	top: 80%;
+	left: 50%;
+	bottom: 10%;
+	transform: translatex(-50%);
 	position: absolute;
 }
 
