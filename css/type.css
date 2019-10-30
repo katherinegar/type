@@ -36,7 +36,7 @@ font-family: 'Nunito', sans-serif;
 }
 
 .circle2{
-	border-radius: 90%;
+	border-radius: 90% 30% 200% 60%;
   height: 500px;
   width: 500px;
  top: -100px;
